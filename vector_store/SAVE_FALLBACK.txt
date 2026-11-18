@@ -1,0 +1,2 @@
+FAISS save to project folder failed: Error in __cdecl faiss::FileIOWriter::FileIOWriter(const char *) at D:\a\faiss-wheels\faiss-wheels\faiss\faiss\impl\io.cpp:98: Error: 'f' failed: could not open G:\My Drive\IIT Madras\Pillar 5 (Advanced Agentic Systems - Weeks 15–17)\Week 15 Graded Mini Project\VS Code\Week 15 Graded Mini Project\vector_store\healthcare_faiss.faiss for writing: No such file or directory
+Saved to fallback: C:\Users\Arindam\.rag_vector_store

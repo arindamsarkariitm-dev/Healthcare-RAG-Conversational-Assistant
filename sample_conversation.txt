@@ -1,0 +1,18 @@
+User: What are the hospital visiting hours?
+Assistant: The hospital visiting hours are daily from 9:00 AM to 8:00 PM, according to the hospital FAQ document.
+Sources: hospital_faq_visiting_hours.pdf
+
+User: What should I do if my insurance coverage is unclear?
+Assistant: If your insurance coverage is uncertain, speak with hospital billing staff before treatment and verify your benefits ahead of time.
+Sources: hospital_faq_insurance_coverage.pdf
+
+User: How should I manage my diabetes?
+Assistant: You should monitor blood glucose regularly, follow a balanced meal plan with controlled carbohydrates, exercise regularly, and take medications or insulin as prescribed.
+Sources: patient_education_diabetes.pdf
+
+---
+Retrieval Summary:
+- Top retrieval score: 0.99
+- Average retrieval score: 0.93
+- Chunks retrieved: 4
+- Distinct sources: 1
